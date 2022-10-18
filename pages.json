@@ -8,6 +8,12 @@
 			}
 		},
 		{
+			"path": "pages/text v-bind/text v-bind",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
 			"path": "pages/index/index",
 			"style": {
 				"navigationBarTitleText": "首页",
