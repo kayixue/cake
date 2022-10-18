@@ -8,12 +8,6 @@
 			}
 		},
 		{
-			"path": "pages/text v-bind/text v-bind",
-			"style": {
-				"navigationBarTitleText": ""
-			}
-		},
-		{
 			"path": "pages/index/index",
 			"style": {
 				"navigationBarTitleText": "首页",
@@ -21,15 +15,55 @@
 				"navigationBarTextStyle": "white",
 				"enablePullDownRefresh": true
 			}
-		}
-	    ,{
-            "path" : "pages/home/home",
+		}, {
+			"path": "pages/home/home",
 			"style": {
 				"navigationBarTitleText": "首页"
 			}
+		}, {
+			"path": "pages/classify/classify",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/text mvvm/text mvvm",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/text v-bind/text v-bind",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}
+
+	    ,{
+            "path" : "pages/text-v-if/text-v-if",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
         }
         ,{
-            "path" : "pages/classify/classify",
+            "path" : "pages/text-v-for/text-v-for",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/text-key/text-key",
             "style" :                                                                                    
             {
                 "navigationBarTitleText": "",
@@ -43,13 +77,12 @@
 		"navigationBarTitleText": "mcake",
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
-		
+
 	},
 	"tabBar": {
 		"color": "#d8d8d8",
 		"selectedColor": "#444",
-		"list": [
-			{
+		"list": [{
 				"text": "首页",
 				"pagePath": "pages/index/index",
 				"iconPath": "static/tab/tab_icon3.png",
@@ -65,7 +98,8 @@
 				"text": "分类",
 				"pagePath": "pages/classify/classify",
 				"iconPath": "static/tab/tab_icon2.png",
-				"selectedIconPath": "static/tab/tab_icon_active.png"}
+				"selectedIconPath": "static/tab/tab_icon2_active.png"
+			}
 		]
 	},
 	"uniIdRouter": {}

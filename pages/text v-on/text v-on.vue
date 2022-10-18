@@ -3,10 +3,16 @@
 		<button v-on:tap="handleBg" type="primary" class="margin">
 			控制激活
 		</button>
+		<button @tap="handleBg" type="primary" class="margin">
+			@控制激活
+		</button>
 		<view class="box margin" v-bind:class="{active:isActive}">
 		</view>
 		<button v-on:click="handleBg" type="primary" class="margin">
 			控制激活2
+		</button>
+		<button @click="handleBg" type="primary" class="margin">
+			@控制激活2
 		</button>
 	</view>
 </template>

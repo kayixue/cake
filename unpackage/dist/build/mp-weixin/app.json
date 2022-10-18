@@ -1,7 +1,11 @@
 {
   "pages": [
+    "pages/text v-on/text v-on",
     "pages/index/index",
-    "pages/home/home"
+    "pages/home/home",
+    "pages/classify/classify",
+    "pages/text mvvm/text mvvm",
+    "pages/text v-bind/text v-bind"
   ],
   "subPackages": [],
   "window": {
@@ -9,6 +13,30 @@
     "navigationBarTitleText": "mcake",
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#d8d8d8",
+    "selectedColor": "#444",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tab/tab_icon3.png",
+        "selectedIconPath": "static/tab/tab_icon3_active.png"
+      },
+      {
+        "text": "欢迎",
+        "pagePath": "pages/home/home",
+        "iconPath": "static/tab/tab_icon4.png",
+        "selectedIconPath": "static/tab/tab_icon4_active.png"
+      },
+      {
+        "text": "分类",
+        "pagePath": "pages/classify/classify",
+        "iconPath": "static/tab/tab_icon2.png",
+        "selectedIconPath": "static/tab/tab_icon2_active.png"
+      }
+    ]
   },
   "usingComponents": {}
 }
