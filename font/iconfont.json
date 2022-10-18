@@ -1,0 +1,184 @@
+{
+  "id": "3709045",
+  "name": "mcake",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "77190",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "151386",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "435987",
+      "name": "我的优惠卷",
+      "font_class": "wodeyouhuijuan",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    },
+    {
+      "icon_id": "485805",
+      "name": "返回键",
+      "font_class": "fanhuijian",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "653954",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "672036",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "869329",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "1069748",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "1220777",
+      "name": "员工渠道APP-切换账号",
+      "font_class": "qiehuanzhanghao",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1287693",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1727352",
+      "name": "20积分",
+      "font_class": "jifen",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    },
+    {
+      "icon_id": "1727355",
+      "name": "22资料、手册",
+      "font_class": "ziliaoshouce",
+      "unicode": "e898",
+      "unicode_decimal": 59544
+    },
+    {
+      "icon_id": "1727362",
+      "name": "25单据",
+      "font_class": "danju",
+      "unicode": "e89b",
+      "unicode_decimal": 59547
+    },
+    {
+      "icon_id": "1727367",
+      "name": "28体积、空间",
+      "font_class": "tijikongjian",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "1727399",
+      "name": "43财务",
+      "font_class": "caiwu",
+      "unicode": "e8af",
+      "unicode_decimal": 59567
+    },
+    {
+      "icon_id": "1727447",
+      "name": "216更多-竖向",
+      "font_class": "gengduo-shuxiang",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    },
+    {
+      "icon_id": "4266155",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu1",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "5173480",
+      "name": "餐具",
+      "font_class": "canju",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5387553",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "eafe",
+      "unicode_decimal": 60158
+    },
+    {
+      "icon_id": "5388026",
+      "name": "地点定位_o",
+      "font_class": "didiandingwei_o",
+      "unicode": "ebba",
+      "unicode_decimal": 60346
+    },
+    {
+      "icon_id": "5388028",
+      "name": "地图_定位_o",
+      "font_class": "ditu_dingwei_o",
+      "unicode": "ebbb",
+      "unicode_decimal": 60347
+    },
+    {
+      "icon_id": "6141084",
+      "name": "AK-YK_圆圈_fill",
+      "font_class": "yk_yuanquan_fill",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11372727",
+      "name": "银行卡",
+      "font_class": "yinhangka",
+      "unicode": "e8bf",
+      "unicode_decimal": 59583
+    },
+    {
+      "icon_id": "11488335",
+      "name": "vip-fill",
+      "font_class": "vip-fill",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "11372652",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e8ae",
+      "unicode_decimal": 59566
+    }
+  ]
+}
