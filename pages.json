@@ -89,6 +89,15 @@
             }
             
         }
+        ,{
+            "path" : "pages/text-computed/text-computed",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

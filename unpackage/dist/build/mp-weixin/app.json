@@ -5,7 +5,13 @@
     "pages/home/home",
     "pages/classify/classify",
     "pages/text mvvm/text mvvm",
-    "pages/text v-bind/text v-bind"
+    "pages/text v-bind/text v-bind",
+    "pages/text-v-if/text-v-if",
+    "pages/text-v-for/text-v-for",
+    "pages/text-key/text-key",
+    "pages/v-for-nest/v-for-nest",
+    "pages/tabs demo/tabs demo",
+    "pages/text-computed/text-computed"
   ],
   "subPackages": [],
   "window": {
