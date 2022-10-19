@@ -1,0 +1,1 @@
+<view><view>使用数据驱动视图</view><view>{{msg}}</view><input type="text" data-event-opts="{{[['input',[['__set_model',['','msg','$event',[]]]]]]}}" value="{{msg}}" bindinput="__e"/></view>

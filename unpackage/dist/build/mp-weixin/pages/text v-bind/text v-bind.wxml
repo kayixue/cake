@@ -1,0 +1,1 @@
+<view><view class="{{['box',isAcitve?'active':'']}}"></view><view class="{{['box',isAcitve?'active':'']}}"></view><view class="{{['box',[(isActive)?'active':'']]}}"></view><image src="{{imgs[loginState]}}" mode></image></view>

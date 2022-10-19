@@ -1,0 +1,1 @@
+.box{height:100px;width:100px;border:1px solid red}.box.active{background-color:#0ff}image{width:100px;height:100px}

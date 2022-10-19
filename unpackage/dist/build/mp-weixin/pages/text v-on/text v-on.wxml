@@ -1,0 +1,1 @@
+<view><button class="margin" type="primary" data-event-opts="{{[['tap',[['handleBg',['$event']]]]]}}" bindtap="__e">控制激活</button><view class="{{['box','margin',(isActive)?'active':'']}}"></view><button class="margin" type="primary" data-event-opts="{{[['tap',[['handleBg',['$event']]]]]}}" bindtap="__e">控制激活2</button></view>
