@@ -107,6 +107,15 @@
             }
             
         }
+        ,{
+            "path" : "pages/text-v-model/text-v-model",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
