@@ -11,6 +11,17 @@
 		<!-- <view class="">
 			{{reMsg}}
 		</view> -->
+		<view class="flex">
+			<view class="box dark" @tap="status=0">
+				全部
+			</view>
+			<view class="box"@tap="status=1">
+				及格
+			</view>
+			<view class="box"@tap="status=2">
+				不及格
+			</view>
+		</view>
 		<view class="box margin" v-for="(item,index) in filterStu">
 			姓名：{{item.name}} 分数：{{item.score}}
 		</view>
@@ -27,7 +38,7 @@
 					{name:'李',score:70},
 					{name:'肥肥',score:50}
 				],
-				status:2 //0全部 1及格 2不及格
+				status:9 //0全部 1及格 2不及格
 			}
 		},
 		computed:{
@@ -35,7 +46,9 @@
 				return this.msg.split('').reverse().join('')
 			},
 			filterStu(){
-				let {status,stu} = this
+				// var {status,stu} = this  解包
+				var status = this.status
+				let stu = this.stu
 				switch (status){
 					case 1:
 						let arr = stu.filter((item)=>{
@@ -59,16 +72,17 @@
 
 <style>
 .margin {
-		margin: 10upx;
+		margin: 20upx;
 	}
 
 	.box {
 		height: 100upx;
 		background-color: #65728c;
 		text-align: center;
-		color: #4f37f4;
+		color: #f1bcae;
 		font-size: 30upx;
 		line-height: 100upx;
+		
 	}
 
 	.box.active {
@@ -78,5 +92,8 @@
 	.box1 {
 		height: 200upx;
 		background-color: #708e00;
+	}
+	.dark {
+		background-color: #4f37f4;
 	}
 </style>

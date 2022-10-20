@@ -1,0 +1,1 @@
+<view><view>{{''+msg+''}}</view><view>{{''+$root.g0+''}}</view><view>{{''+reMsg+''}}</view></view>

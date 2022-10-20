@@ -1,0 +1,1 @@
+<view><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="*this"><view class="box dark margin"><checkbox></checkbox>{{'['+item+']'}}<text data-event-opts="{{[['tap',[['handleDelate',[index]]]]]}}" class="margin-left" bindtap="__e">删除</text></view></block></view>

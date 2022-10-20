@@ -1,0 +1,1 @@
+.margin{margin:10rpx}.box{height:200rpx;background-color:#65728c;text-align:center;color:#4f37f4;font-size:50rpx;line-height:200rpx}.box.active{background-color:#1900f5}.box1{height:200rpx;background-color:#708e00}

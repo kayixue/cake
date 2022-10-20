@@ -98,6 +98,15 @@
             }
             
         }
+        ,{
+            "path" : "pages/text-watch/text-watch",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
