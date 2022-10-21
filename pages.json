@@ -125,6 +125,15 @@
             }
             
         }
+        ,{
+            "path" : "pages/sent-msg/sent-msg",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
